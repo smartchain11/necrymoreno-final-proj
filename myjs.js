@@ -399,13 +399,13 @@ function initTestimonials() {
         },
         {
             text: "Yes my dream laptop I can buy sa mas mura maka laro nadin ako ng summer time saga 2",
-            author: "Sandy Lee",
+            author: "Sandy Icecreaman",
             role: "Gaymer"
         },
         {
             text: "Lupit ng  buyer sobrang mura, mapapa mura ka talaga!",
-            author: "Jun Dave Moreno",
-            role: "doflaminguard"
+            author: "Faith Visto II",
+            role: "Minecraft Gamer"
         }
     ];
 
